@@ -94,4 +94,4 @@ Projeto pessoal com fins demonstrativos/afetivos. Ajuste e reutilize conforme ne
 
 
 —
-Feito com 💜 e lavanda para Yan & Fernanda.
+Feito para Yan & Fernanda.
